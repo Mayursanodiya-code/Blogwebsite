@@ -14,7 +14,7 @@
     "@tinymce/tinymce-react": "^4.3.2",
     "12megablog": "file:",
     "appwrite": "^13.0.2",
-    "caniuse-lite": "^1.0.30001695",
+    "caniuse-lite": "^1.0.30001727",
     "html-react-parser": "^4.2.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
